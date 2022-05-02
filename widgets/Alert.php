@@ -3,7 +3,7 @@
 namespace deyraka\materialdashboard\widgets;
 use Yii;
 
-class Alert extends \yii\bootstrap\Widget
+class Alert extends \yii\bootstrap5\Widget
 {
     /**
      * @var array the alert types configuration for the flash messages.
