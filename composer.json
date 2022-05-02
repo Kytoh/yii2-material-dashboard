@@ -1,5 +1,5 @@
 {
-    "name": "deyraka/yii2-material-dashboard",
+    "name": "TheWNetwork/yii2-material-dashboard",
     "description": "Material Dashboard Theme for Yii 2.0",
     "type": "yii2-extension",
     "license": "MIT",
@@ -7,7 +7,8 @@
         {
             "name": "deyraka",
             "email": "dey.raka53@gmail.com"
-        }
+        },
+        {   "name": "TheWNetwork"    }
     ],
     "keywords": [
         "material", "material-design", "material-dashboard", "dashboard",
