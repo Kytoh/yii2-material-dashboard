@@ -7,7 +7,7 @@
 
 namespace deyraka\materialdashboard\widgets;
 
-use yii\bootstrap\Widget;
+use yii\bootstrap5\Widget;
 use yii\helpers\Html;
 use yii\helpers\Url;
 
