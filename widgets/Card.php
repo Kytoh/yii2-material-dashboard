@@ -8,7 +8,7 @@
 namespace deyraka\materialdashboard\widgets;
 
 //use rmrevin\yii\fontawesome\component\Icon;
-use yii\bootstrap\Widget;
+use yii\bootstrap5\Widget;
 use yii\helpers\Html;
 
 class Card extends Widget
