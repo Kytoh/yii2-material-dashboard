@@ -1,6 +1,6 @@
 <?php
 
-use deyraka\materialdashboard\widgets\Menu;
+use thewnetwork\materialdashboard\widgets\Menu;
 use yii\helpers\Html;
 
 ?>

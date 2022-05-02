@@ -1,13 +1,13 @@
 <?php
 use yii\helpers\Html;
-use deyraka\materialdashboard\web\MaterialDashboardAsset;
+use thewnetwork\materialdashboard\web\MaterialDashboardAsset;
 use yii\web\View;
 
 /* @var $this View */
 /* @var $content string */
 
-if (class_exists('deyraka\materialdashboard\web\MaterialDashboardAsset')) {
-    deyraka\materialdashboard\web\MaterialDashboardAsset::register($this);
+if (class_exists('thewnetwork\materialdashboard\web\MaterialDashboardAsset')) {
+    thewnetwork\materialdashboard\web\MaterialDashboardAsset::register($this);
 };
 
 $directoryAsset = Yii::$app->assetManager->getPublishedUrl('@vendor/deyraka/yii2-material-dashboard/assets/');

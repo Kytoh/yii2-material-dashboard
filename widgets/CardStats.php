@@ -5,7 +5,7 @@
  * @link http://adminlte.yiister.ru
  */
 
-namespace deyraka\materialdashboard\widgets;
+namespace thewnetwork\materialdashboard\widgets;
 
 //use rmrevin\yii\fontawesome\component\Icon;
 use yii\bootstrap5\Widget;

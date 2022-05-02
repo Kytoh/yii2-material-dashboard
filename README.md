@@ -44,7 +44,7 @@ Insert the following code inside 'component' section in your 'config/web.php'.
 	...
 	'assetManager' => [ //SETTING FOR MATERIAL DASHBOARD THEME
 		'bundles' => [
-			'deyraka\materialdashboard\web\MaterialDashboardAsset',
+			'thewnetwork\materialdashboard\web\MaterialDashboardAsset',
 		],
 	],
 	...

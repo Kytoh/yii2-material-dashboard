@@ -1,11 +1,11 @@
 <?php
 
 /* @var $this yii\web\View */
-use deyraka\materialdashboard\widgets\CardStats;
-use deyraka\materialdashboard\widgets\CardProduct;
-use deyraka\materialdashboard\widgets\CardChart;
-use deyraka\materialdashboard\widgets\Card;
-use deyraka\materialdashboard\widgets\Progress;
+use thewnetwork\materialdashboard\widgets\CardStats;
+use thewnetwork\materialdashboard\widgets\CardProduct;
+use thewnetwork\materialdashboard\widgets\CardChart;
+use thewnetwork\materialdashboard\widgets\Card;
+use thewnetwork\materialdashboard\widgets\Progress;
 use yii\helpers\Url;
 
 $this->title = 'Dashboard';

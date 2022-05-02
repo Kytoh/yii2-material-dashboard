@@ -1,5 +1,5 @@
 <?php
-namespace deyraka\materialdashboard\widgets;
+namespace thewnetwork\materialdashboard\widgets;
 
 use Yii;
 use yii\helpers\ArrayHelper;

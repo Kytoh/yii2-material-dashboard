@@ -1,6 +1,6 @@
 <?php
 
-namespace deyraka\materialdashboard\grid;
+namespace thewnetwork\materialdashboard\grid;
 
 
 /**
