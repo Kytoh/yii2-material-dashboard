@@ -1,5 +1,5 @@
 {
-    "name": "TheWNetwork/yii2-material-dashboard",
+    "name": "thewnetwork/yii2-material-dashboard",
     "description": "Material Dashboard Theme for Yii 2.0",
     "type": "yii2-extension",
     "license": "MIT",
@@ -8,11 +8,20 @@
             "name": "deyraka",
             "email": "dey.raka53@gmail.com"
         },
-        {   "name": "TheWNetwork"    }
+        {
+            "name": "TheWNetwork"
+        }
     ],
     "keywords": [
-        "material", "material-design", "material-dashboard", "dashboard",
-        "bootstrap", "yii2", "asset-bundle", "asset", "bundle"
+        "material",
+        "material-design",
+        "material-dashboard",
+        "dashboard",
+        "bootstrap",
+        "yii2",
+        "asset-bundle",
+        "asset",
+        "bundle"
     ],
     "minimum-stability": "dev",
     "require": {
@@ -22,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "deyraka\\materialdashboard\\": ""
+            "thewnetwork\\materialdashboard\\": ""
         }
     }
 }
