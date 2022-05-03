@@ -101,9 +101,6 @@ class CardChart extends Widget
         parent::init();
         
         Html::addCssClass($this->optione, 'card card-chart');
-        /* if (!empty($this->color)) {
-            Html::addCssClass($this->options, $this->color);
-        } */
     }
     
     /**
